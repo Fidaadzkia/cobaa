@@ -194,14 +194,14 @@ h3{
   list-style:none;
   text-align:center;
 }
-.client-part-haead{
-  color:#fdfdfd;
+/*.client-part-haead{*/
+  /*color:#fdfdfd;
   font-size:28px;
   line-height:41px;
   margin:30px 0 10px;
   font-family: ''Open Sans',sans-serif';
   font-style: italic;
-}
+}*/
 .bg2 {
   background:url(section-bg1.jpg) center center no-repeat;
   background-size:cover;
